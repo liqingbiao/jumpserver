@@ -103,14 +103,6 @@ JumpServer 采纳分布式架构，支持多机房跨区域部署，支持横向
 
 ### 案例研究
 
-- [JumpServer 堡垒机护航顺丰科技超大规模资产安全运维](https://blog.fit2cloud.com/?p=1147)；
-- [JumpServer 堡垒机让“大智慧”的混合 IT 运维更智慧](https://blog.fit2cloud.com/?p=882)；
-- [携程 JumpServer 堡垒机部署与运营实战](https://blog.fit2cloud.com/?p=851)；
-- [小红书的JumpServer堡垒机大规模资产跨版本迁移之路](https://blog.fit2cloud.com/?p=516)；
-- [JumpServer堡垒机助力中手游提升多云环境下安全运维能力](https://blog.fit2cloud.com/?p=732)；
-- [中通快递：JumpServer主机安全运维实践](https://blog.fit2cloud.com/?p=708)；
-- [东方明珠：JumpServer高效管控异构化、分布式云端资产](https://blog.fit2cloud.com/?p=687)；
-- [江苏农信：JumpServer堡垒机助力行业云安全运维](https://blog.fit2cloud.com/?p=666)。
 
 ### 安全说明
 
@@ -124,7 +116,7 @@ JumpServer是一款安全产品，请参考 [基本安全建议](https://docs.ju
 
 ### License & Copyright
 
-Copyright (c) 2014-2022 飞致云 FIT2CLOUD, All rights reserved.
+Copyright (c) 2014-2022  FIT2CLOUD, All rights reserved.
 
 Licensed under The GNU General Public License version 3 (GPLv3)  (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
